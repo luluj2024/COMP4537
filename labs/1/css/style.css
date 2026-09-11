@@ -1,0 +1,35 @@
+body {
+    margin:0;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#controls {
+    margin-bottom: 20px;
+}
+
+#controls label {
+    display: block;
+    margin-bottom: 1rem;
+}
+
+#controls button {
+    margin-left: 0.5rem;
+}
+
+#message {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#game-area {
+    position: relative;
+    width: 100%;
+}
+
+.memory-button {
+    width: 10rem;
+    height: 5rem;
+    font-size: 1rem;
+    color: white;
+}
