@@ -1,0 +1,18 @@
+#notes-container>textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#notes-container>div>button {
+    margin-left: 10px;
+}
+
+#add-button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#save-status,
+#retrieve-status {
+    text-align: right;
+}
